@@ -1,0 +1,10 @@
+.swc
+.github
+.vscode
+node_modules
+src
+.eslintrc.json
+.gitignore
+deno.json
+tsconfig.json
+tsup.config.json

@@ -1,0 +1,9 @@
+{
+    "target": "esnext",
+    "format": "esm",
+    "dts": true,
+    "entry": ["./src/mod.ts"],
+    "outDir": "build",
+    "minify": true,
+    "keepNames": true
+}
